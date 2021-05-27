@@ -1,0 +1,4 @@
+*.pyc
+/build
+/dist
+/src/bbcgfx.egg-info/
